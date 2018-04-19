@@ -86,7 +86,7 @@
     <station lat="48.798394" lon="9.481076" name="Winterbach (b Schorndorf)"/>
   </stations>
   <lines>
-    <line circular="false" color="" name="S1">
+    <line circular="false" color="#009913" name="S1">
       <stop station="Herrenberg"/>
       <stop station="Nufringen"/>
       <stop station="Gärtringen"/>
@@ -117,7 +117,7 @@
       <stop station="Kirchheim (Teck)-Ötlingen"/>
       <stop station="Kirchheim (Teck)"/>
     </line>
-    <line circular="false" color="" name="S2">
+    <line circular="false" color="#ff0000" name="S2">
       <stop station="Schorndorf"/>
       <stop station="Weiler (Rems)"/>
       <stop station="Winterbach (b Schorndorf)"/>
@@ -146,7 +146,7 @@
       <stop station="Stuttgart Flughafen/Messe"/>
       <stop station="Filderstadt"/>
     </line>
-    <line circular="false" color="" name="S3">
+    <line circular="false" color="#ff9c00" name="S3">
       <stop station="Backnang"/>
       <stop station="Maubach"/>
       <stop station="Nellmersbach"/>
@@ -190,7 +190,7 @@
       <stop station="Burgstall (Murr)"/>
       <stop station="Backnang"/>
     </line>
-    <line circular="false" color="" name="S5">
+    <line circular="false" color="#2c80ff" name="S5">
       <stop station="Bietigheim-Bissingen"/>
       <stop station="Tamm (Württ)"/>
       <stop station="Asperg"/>
@@ -204,7 +204,7 @@
       <stop station="Stuttgart Feuersee"/>
       <stop station="Stuttgart Schwabstraße"/>
     </line>
-    <line circular="false" color="" name="S6">
+    <line circular="false" color="#502d16" name="S6">
       <stop station="Stuttgart Schwabstraße"/>
       <stop station="Stuttgart Feuersee"/>
       <stop station="Stuttgart Stadtmitte"/>
@@ -223,26 +223,7 @@
       <stop station="Malmsheim"/>
       <stop station="Weil der Stadt"/>
     </line>
-    <line circular="false" color="" name="S6">
-      <stop station="Weil der Stadt"/>
-      <stop station="Malmsheim"/>
-      <stop station="Renningen"/>
-      <stop station="Rutesheim"/>
-      <stop station="Leonberg"/>
-      <stop station="Höfingen"/>
-      <stop station="Ditzingen"/>
-      <stop station="Weilimdorf"/>
-      <stop station="Korntal"/>
-      <stop station="Neuwirtshaus (Porscheplatz)"/>
-      <stop station="Stuttgart-Zuffenhausen"/>
-      <stop station="Stuttgart-Feuerbach"/>
-      <stop station="Stuttgart Nord"/>
-      <stop station="Stuttgart Hauptbahnhof (tief)"/>
-      <stop station="Stuttgart Stadtmitte"/>
-      <stop station="Stuttgart Feuersee"/>
-      <stop station="Stuttgart Schwabstraße"/>
-    </line>
-    <line circular="false" color="" name="S60">
+    <line circular="false" color="#808000" name="S60">
       <stop station="Böblingen"/>
       <stop station="Sindelfingen"/>
       <stop station="Maichingen"/>
