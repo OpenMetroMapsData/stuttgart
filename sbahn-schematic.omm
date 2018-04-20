@@ -256,11 +256,11 @@
     <edges line="S6"/>
     <edges line="S60"/>
     <station name="Altbach" x="755.192038" y="520.303836"/>
-    <station name="Asperg" x="436.533816" y="134.607403"/>
+    <station name="Asperg" x="465.469001" y="131.794260"/>
     <station name="Backnang" x="754.740139" y="166.412143"/>
     <station name="Benningen (Neckar)" x="581.040801" y="129.558139"/>
     <station name="Beutelsbach" x="759.316444" y="334.547808"/>
-    <station name="Bietigheim-Bissingen" x="422.295861" y="50.582754"/>
+    <station name="Bietigheim-Bissingen" x="366.434878" y="128.547003"/>
     <station name="Burgstall (Murr)" x="741.614140" y="143.050591"/>
     <station name="Böblingen" x="242.260575" y="586.195059"/>
     <station name="Böblingen Goldberg" x="263.042751" y="568.795264"/>
@@ -329,7 +329,7 @@
     <station name="Stuttgart-Untertürkheim" x="575.706401" y="397.906826"/>
     <station name="Stuttgart-Vaihingen" x="389.641258" y="507.135368"/>
     <station name="Stuttgart-Zuffenhausen" x="461.358969" y="294.727162"/>
-    <station name="Tamm (Württ)" x="406.501244" y="104.991656"/>
+    <station name="Tamm (Württ)" x="417.351938" y="128.300555"/>
     <station name="Waiblingen" x="645.455390" y="355.818829"/>
     <station name="Weil der Stadt" x="63.955666" y="447.221444"/>
     <station name="Weiler (Rems)" x="917.304682" y="355.186915"/>
